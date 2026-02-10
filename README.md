@@ -55,7 +55,11 @@ I specialize in architecting **Adaptive Security Intelligence Platforms**. My wo
 
 
 
-https://github.com/user-attachments/assets/5adfc0d9-bf12-481e-b35b-1d4f4c0ed668
+
+
+https://github.com/user-attachments/assets/bddff5a3-ecbf-4303-a3ae-6564ec9d6258
+
+
 
 
 
