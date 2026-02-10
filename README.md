@@ -19,8 +19,7 @@
 
   <br>
 
-  <video src="https://github.com/user-attachments/assets/812b610e-2831-4751-975f-600de617cbd8
-" autoplay loop muted playsinline width="100%"></video>
+  <video src="https://github.com/user-attachments/assets/bddff5a3-ecbf-4303-a3ae-6564ec9d6258" autoplay loop muted playsinline width="100%"></video>
 
   <br>
   <br>
