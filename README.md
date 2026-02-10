@@ -1,13 +1,13 @@
 ### Hi there 👋, I represent the Ghost Protocol Research Division.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=GHOST%20PROTOCOL&fontSize=70&fontColor=00ff9d&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=GHOST%20PROTOCOL&fontSize=70&fontColor=00f3ff&animation=fadeIn&fontAlignY=35&stroke=00f3ff&strokeWidth=2" width="100%"/>
   
   <h3>🛡️ Adaptive Security Intelligence & Adversarial Simulation</h3>
 
   <p>
     <a href="https://github.com/hackimghost">
-      <img src="https://img.shields.io/badge/Research-Active-success?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Research-Active-success?style=for-the-badge&logo=github&logoColor=white&color=00f3ff"/>
     </a>
     <a href="https://kali.org">
       <img src="https://img.shields.io/badge/Focus-Offensive_Engineering-blueviolet?style=for-the-badge&logo=kali-linux&logoColor=white"/>
@@ -18,9 +18,11 @@
   </p>
 
   <br>
-  
-  COLE_O_LINK_DO_VIDEO_AQUI
-  
+
+  <video src="https://github.com/user-attachments/assets/812b610e-2831-4751-975f-600de617cbd8
+" autoplay loop muted playsinline width="100%"></video>
+
+  <br>
   <br>
 
   <p>
@@ -48,18 +50,7 @@ I specialize in architecting **Adaptive Security Intelligence Platforms**. My wo
 
 <div align="center">
   <h3>"Security is not a product, it's a protocol."</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=hackimghost&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hackimghost&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00f3ff&icon_color=00f3ff" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hackimghost&theme=dark&hide_border=true&background=0d1117&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hackimghost&theme=dark&hide_border=true&background=0d1117&ring=00f3ff&fire=00f3ff&currStreakLabel=00f3ff" />
 </div>
-
-
-
-
-
-https://github.com/user-attachments/assets/bddff5a3-ecbf-4303-a3ae-6564ec9d6258
-
-
-
-
-
