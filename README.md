@@ -53,5 +53,9 @@ I specialize in architecting **Adaptive Security Intelligence Platforms**. My wo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hackimghost&theme=dark&hide_border=true&background=0d1117&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d" />
 </div>
 
-https://github.com/user-attachments/assets/c39ff442-7afd-467a-a8d3-6d10b4aff66d
+
+
+https://github.com/user-attachments/assets/5adfc0d9-bf12-481e-b35b-1d4f4c0ed668
+
+
 
