@@ -17,7 +17,7 @@
 
   <br>
 
-  <img src="images/Ghostcaveira.png" alt="Ghost Security Systems" width="100%">
+  <img src="Ghostcaveira.png" alt="Ghost Security Systems" width="100%">
 
   <br>
   <br>
