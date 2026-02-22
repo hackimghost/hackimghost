@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=HACKIMGHOST&fontSize=70&fontColor=00f3ff&animation=fadeIn&fontAlignY=35&stroke=00f3ff&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=GHOST%20PROTOCOL&fontSize=70&fontColor=FFFF00&animation=fadeIn&fontAlignY=35&stroke=FFFF00&strokeWidth=2" width="100%"/>
   
   <h3>🛡️ Strategic Resilience & Enterprise Security Intelligence</h3>
 
   <p>
     <a href="https://github.com/hackimghost">
-      <img src="https://img.shields.io/badge/Research-Active-success?style=for-the-badge&logo=github&logoColor=white&color=00f3ff"/>
+      <img src="https://img.shields.io/badge/Research-Active-success?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
     <a href="https://kali.org">
       <img src="https://img.shields.io/badge/Focus-Proactive_Defense-blueviolet?style=for-the-badge&logo=kali-linux&logoColor=white"/>
@@ -67,7 +67,7 @@ I specialize in architecting **Adaptive Security Intelligence Platforms** and fo
 
 <div align="center">
   <h3>"O verdadeiro controle não vem de evitar a falha, mas de dominar a arquitetura do risco."</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=hackimghost&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00f3ff&icon_color=00f3ff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hackimghost&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FFFF00&icon_color=FFFF00" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hackimghost&theme=dark&hide_border=true&background=0d1117&ring=00f3ff&fire=00f3ff&currStreakLabel=00f3ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hackimghost&theme=dark&hide_border=true&background=0d1117&ring=FFFF00&fire=FFFF00&currStreakLabel=FFFF00" />
 </div>
