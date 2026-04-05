@@ -56,10 +56,9 @@ O desenvolvimento central do meu laboratório. O GHOST não é um scanner de vul
 * 🎯 **Foco:** Emulação realista, evasão de EDRs/WAFs e mapeamento sistêmico via Grafos (Neo4j).
 
 ### 2. Projeto AEGIS (Fase de Integração Operacional)
-**[ Autonomous Equality & Guard Intelligence System ]**
-Uma resposta tecnológica direta à violência física e à desinformação estruturada. O AEGIS é um framework de defesa civil e inteligência de fontes abertas (OSINT) focado em neutralizar redes de ódio e prevenir a violência contra a mulher. Ele utiliza motores de Visão Computacional de Borda (Edge AI) e análise de grafos para identificar a anatomia de ataques virtuais antes que se tornem danos físicos.
-* 🛡️ **Foco:** Defesa civil, combate à desinformação, Edge Computing e Inteligência Preventiva.
-
+[ Autonomous Equality & Guard Intelligence System ]
+O AEGIS transcendeu a fase de ferramenta assistencial para consolidar-se como um Ecossistema de Defesa de Espectro Total. É uma infraestrutura de soberania tecnológica baseada na Doutrina Power Hat, projetada para operar onde o compliance político e a censura não alcançam. Utilizando o núcleo KADMON  e inteligência de grafos via Neo4j, o sistema processa dados neutros para a preservação da vida e da integridade nacional. Atua simultaneamente na prevenção ativa de feminicídios, na neutralização de campanhas de desinformação/calúnia e na blindagem de infraestruturas críticas contra armas cibernéticas (APTs) e corrupção sistêmica.
+🛡️ Foco: Soberania Nacional, Integridade Humana, Auditoria Anti-Corrupção e Inteligência Preventiva de Grafos.
 ---
 
 <div align="center">
