@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=PHANTON%20APT&fontSize=70&fontColor=FFFF00&animation=fadeIn&fontAlignY=35&stroke=FFFF00&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=PHANTOM%20APT&fontSize=70&fontColor=FFFF00&animation=fadeIn&fontAlignY=35&stroke=FFFF00&strokeWidth=2" width="100%"/>
   
   <h3>🛡️ Autonomous Adversary Emulation & Cognitive Architecture</h3>
 
