@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=GHOST%20PROTOCOL&fontSize=70&fontColor=FFFF00&animation=fadeIn&fontAlignY=35&stroke=FFFF00&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=PHANTON%20APT&fontSize=70&fontColor=FFFF00&animation=fadeIn&fontAlignY=35&stroke=FFFF00&strokeWidth=2" width="100%"/>
   
   <h3>🛡️ Autonomous Adversary Emulation & Cognitive Architecture</h3>
 
@@ -23,7 +23,7 @@
   <br>
 
   <p>
-    <a href="https://www.linkedin.com/in/GUSTAVO-VITOR-SIMOES" target="_blank">
+    <a href="https: target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </p>
