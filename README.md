@@ -31,6 +31,10 @@
 
 ---
 
+> ⚠️ **LEGAL DISCLAIMER & AUTHORIZED USE ONLY** ⚠️
+> Este laboratório e todo o ecossistema GHOST (KADMON, AEGIS, OBSIDIAN) são desenvolvidos **estritamente para Pesquisa de Segurança Cibernética Avançada, Emulação Autorizada de Adversários (Red Team) e Fins Educacionais**. Todo o material conceitual visa a defesa proativa de infraestruturas. O autor não fornece malwares compilados para uso público e não se responsabiliza pelo uso indevido de qualquer teoria ou arquitetura aqui descrita. Operações táticas devem ocorrer exclusivamente em ambientes controlados e com consentimento explícito (Rules of Engagement).
+
+
 <div align="center">
   <h2>📜 A Forja: O Arquiteto por Trás da Tríade</h2>
 </div>
