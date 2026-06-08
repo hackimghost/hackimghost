@@ -52,47 +52,24 @@ A segurança de vitrine não sustenta um ataque real. Para forjar a verdadeira b
   <h2>⚙️ O Arsenal: Arquitetura de Espectro Total</h2>
 </div>
 
+
 ### 1. KADMON & GHOST Protocol
 **[ Cognitive C2 Framework & Fileless Mutating Malware ]**
-<p align="left">
-  <img src="https://img.shields.io/badge/Ada_&_SPARK-0298c3?style=for-the-badge&logo=ada&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypher_(Neo4j)-018BFF?style=for-the-badge&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Verilog-B41717?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/VHDL-5A29E4?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" />
-</p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-</p>
+> **Core Execution & Memory Logic:** `C` • `C++` • `Rust` • `Zig` • `Go`
+> **Cognitive Engine & Orchestration:** `Python` • `Java` • `C#` • `Cypher (Neo4j)`
+> **Scripting & Automation:** `Bash` • `JavaScript` • `TypeScript` • `PHP`
+> **Low-Level Hardware & ICS:** `Assembly` • `Ada & SPARK` • `Verilog` • `VHDL`
 
 O núcleo ofensivo da operação. O KADMON não é um simples payload, é uma quimera em mutação constante. Operando de forma *fileless*, ele injeta código bruto diretamente na memória de processos legítimos, evadindo EDRs. O ecossistema GHOST orquestra essa anomalia, funcionando como uma infraestrutura autônoma de C2 que executa engenharia reversa nas defesas, fornecendo telemetria implacável para Red Teams de elite.
 
 ### 2. Projeto AEGIS 
 **[ Autonomous Equality & Guard Intelligence System ]**
+
+> **Architecture Stack:** `Python` • `C++` • `Go` • `Cypher`
+
 O tribunal de dados cego a ideologias. O AEGIS é o nosso escudo de auditoria civil, fundamentado no *Privacy by Design*. Utilizando a inteligência de grafos através do **Neo4j**, o sistema correlaciona metadados ocultos para expor redes de corrupção, fraudes, obliterar o feminicídio e desmantelar falsas acusações. Integrado ao KADMON, ele intercepta falhas estruturais operando com precisão matemática pura.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-</p>
 
 
 ### 3. OBSIDIAN Core (O Cérebro da Operação)
