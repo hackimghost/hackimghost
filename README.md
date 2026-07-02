@@ -80,19 +80,22 @@ A segurança de vitrine não sustenta um ataque real. Para forjar a verdadeira b
 | 📜 | **Scripting & Automation** |  |
 | ⚙️ | **Database & Infra** |  |
 </div>
-
-
 ### 1. KADMON & GHOST Protocol
 **[ Cognitive C2 Framework & Fileless Mutating Malware ]**
-> **Core Execution & Memory Logic:** C • C++ • Rust • Zig • Go
-> **Cognitive Engine & Orchestration:** Python • Java • C# • Cypher (Neo4j)
-> **Scripting & Automation:** Bash • JavaScript • TypeScript • PHP
-> **Low-Level Hardware & ICS:** Assembly • Ada & SPARK • Verilog • VHDL
+> **Core Execution & Memory Logic:**
+> <img src="https://skillicons.dev/icons?i=c,cpp,rust,zig,go" />
+> **Cognitive Engine & Orchestration:**
+> <img src="https://skillicons.dev/icons?i=python,java,cs,neo4j" />
+> **Scripting & Automation:**
+> <img src="https://skillicons.dev/icons?i=bash,js,ts,php" />
+> **Low-Level Hardware & ICS:**
+> 
 > 
 O núcleo ofensivo da operação. O KADMON não é um simples payload, é uma quimera em mutação constante. Operando de forma *fileless*, ele injeta código bruto diretamente na memória de processos legítimos, evadindo EDRs. O ecossistema GHOST orquestra essa anomalia, funcionando como uma infraestrutura autônoma de C2 que executa engenharia reversa nas defesas, fornecendo telemetria implacável para Red Teams de elite.
 ### 2. Projeto AEGIS
 **[ Autonomous Equality & Guard Intelligence System ]**
-> **Architecture Stack:** Python • C++ • Go • Cypher
+> **Architecture Stack:**
+> <img src="https://skillicons.dev/icons?i=python,cpp,go,neo4j" />
 > 
 O tribunal de dados cego a ideologias. O AEGIS é o nosso escudo de auditoria civil, fundamentado no *Privacy by Design*. Utilizando a inteligência de grafos através do **Neo4j**, o sistema correlaciona metadados ocultos para expor redes de corrupção, fraudes, obliterar o feminicídio e desmantelar falsas acusações. Integrado ao KADMON, ele intercepta falhas estruturais operando com precisão matemática pura.
 ### 3. OBSIDIAN Core (O Cérebro da Operação)
@@ -115,11 +118,26 @@ I specialize in architecting **Cognitive Command & Control (C2) Frameworks**, mu
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Video%20Game.png" alt="Game" width="50" height="50" /> Contributions (Pac-Man)
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hackimghost/hackimghost/output-pacman/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hackimghost/hackimghost/output-pacman/pacman-contribution-graph.svg">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hackimghost/hackimghost/output-pacman/pacman-contribution-graph.svg">
+</picture>
+</div>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="50" height="50" /> 📊 Telemetria e Estatísticas
 <div align="center">
 <h3>"Segurança não é sobre a ausência de vulnerabilidades, mas sobre a capacidade de gerenciar o risco sob ataque total."</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=hackimghost&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FFFF00&icon_color=FFFF00" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hackimghost&theme=dark&hide_border=true&background=0d1117&ring=FFFF00&fire=FFFF00&currStreakLabel=FFFF00" />
+
+
+
+
 Activity Graph
 </div>
 <div align="center">
