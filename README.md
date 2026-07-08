@@ -44,7 +44,7 @@
 </div>
 
 > ⚠️ **LEGAL DISCLAIMER & AUTHORIZED USE ONLY** ⚠️
-> Este laboratório e todo o ecossistema GHOST (KADMON, AEGIS, OBSIDIAN) são desenvolvidos **estritamente para Pesquisa de Segurança Cibernética Avançada, Emulação Autorizada de Adversários (Red Team) e Fins Educacionais**. Todo o material conceitual visa a defesa proativa de infraestruturas. O autor não fornece malwares compilados para uso público e não se responsabiliza pelo uso indevido de qualquer teoria ou arquitetura aqui descrita. Operações táticas devem ocorrer exclusivamente em ambientes controlados e com consentimento explícito (Rules of Engagement).
+> Este laboratório e todo o ecossistema (GHOST-PROTOCOL, PHANTOM, KAGE, OBSIDIAN) são desenvolvidos **estritamente para Pesquisa de Segurança Cibernética Avançada, Emulação Autorizada de Adversários (Red Team) e Fins Educacionais**. Todo o material conceitual visa a defesa proativa de infraestruturas. O autor não fornece malwares compilados para uso público e não se responsabiliza pelo uso indevido de qualquer teoria ou arquitetura aqui descrita. Operações táticas devem ocorrer exclusivamente em ambientes controlados e com consentimento explícito (Rules of Engagement).
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -80,7 +80,7 @@ A segurança de vitrine não sustenta um ataque real. Para forjar a verdadeira b
 | 📜 | **Scripting & Automation** |  |
 | ⚙️ | **Database & Infra** |  |
 </div>
-### 1. KADMON & GHOST Protocol
+### 1. PHANTOM & GHOST PROTOCOL
 **[ Cognitive C2 Framework & Fileless Mutating Malware ]**
 > **Core Execution & Memory Logic:**
 > <img src="https://skillicons.dev/icons?i=c,cpp,rust,zig,go" />
@@ -91,13 +91,13 @@ A segurança de vitrine não sustenta um ataque real. Para forjar a verdadeira b
 > **Low-Level Hardware & ICS:**
 > 
 > 
-O núcleo ofensivo da operação. O KADMON não é um simples payload, é uma quimera em mutação constante. Operando de forma *fileless*, ele injeta código bruto diretamente na memória de processos legítimos, evadindo EDRs. O ecossistema GHOST orquestra essa anomalia, funcionando como uma infraestrutura autônoma de C2 que executa engenharia reversa nas defesas, fornecendo telemetria implacável para Red Teams de elite.
-### 2. Projeto AEGIS
+O núcleo ofensivo da operação. O PHANTOM não é um simples payload, é uma quimera em mutação constante. Operando de forma *fileless*, ele injeta código bruto diretamente na memória de processos legítimos, evadindo EDRs. O ecossistema GHOST orquestra essa anomalia, funcionando como uma infraestrutura autônoma de C2 que executa engenharia reversa nas defesas, fornecendo telemetria implacável para Red Teams de elite.
+### 2. Projeto KAGE
 **[ Autonomous Equality & Guard Intelligence System ]**
 > **Architecture Stack:**
 > <img src="https://skillicons.dev/icons?i=python,cpp,go,neo4j" />
 > 
-O tribunal de dados cego a ideologias. O AEGIS é o nosso escudo de auditoria civil, fundamentado no *Privacy by Design*. Utilizando a inteligência de grafos através do **Neo4j**, o sistema correlaciona metadados ocultos para expor redes de corrupção, fraudes, obliterar o feminicídio e desmantelar falsas acusações. Integrado ao KADMON, ele intercepta falhas estruturais operando com precisão matemática pura.
+O tribunal de dados cego a ideologias. O KAGE é o nosso escudo de auditoria civil, fundamentado no *Privacy by Design*. Utilizando a inteligência de grafos através do **Neo4j**, o sistema correlaciona metadados ocultos para expor redes de corrupção, fraudes. Integrado ao PHANTOM, ele intercepta falhas estruturais operando com precisão matemática pura.
 ### 3. OBSIDIAN Core (O Cérebro da Operação)
 **[ Cognitive Knowledge Mapping & Intelligence Synthesis ]**
 O Obsidian não é um bloco de notas corporativo; é o motor de orquestração cognitiva da Tríade. É aqui que os metadados do AEGIS e a telemetria do KADMON são fundidos. Através de uma malha neural de anotações e *graph intelligence*, o Obsidian age como o segundo cérebro do sistema, armazenando arquiteturas de ciberguerra, dissecando ameaças e guiando os próximos ataques operacionais.
@@ -110,9 +110,9 @@ A infraestrutura mais avançada do mundo desmorona se o fator humano for comprom
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Satellite" width="50" height="50" /> 🔭 Mission Statement
-I specialize in architecting **Cognitive Command & Control (C2) Frameworks**, mutating memory-injected payloads (KADMON), and conducting **Autonomous Adversary Emulation**. My work obliterates the gap between theoretical compliance and the brutal operational reality of enterprise security.
- * 🛰️ **Offensive Engine:** KADMON / GHOST Protocol — Mutating Chimera & Enterprise Resilience Validation.
- * 🛡️ **Civil Defense AI:** Project AEGIS — Neo4j Graph Intelligence & OSINT Framework.
+I specialize in architecting **Cognitive Command & Control (C2) Frameworks**, mutating memory-injected payloads (PHANTOM), and conducting **Autonomous Adversary Emulation**. My work obliterates the gap between theoretical compliance and the brutal operational reality of enterprise security.
+ * 🛰️ **Offensive Engine:** PHANTOM / GHOST PROTOCOL — Mutating Chimera & Enterprise Resilience Validation.
+ * 🛡️ **Civil Defense AI:** Project KAGE AEGIS — Neo4j Graph Intelligence & OSINT Framework.
  * 🧠 **Cognitive Core:** [Obsidian] — Operational Brain & Tactical Knowledge Graph.
  * 📫 **Contact:** *Restricted to authorized operational channels.*
 <div align="center">
