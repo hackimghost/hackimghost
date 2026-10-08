@@ -241,11 +241,15 @@ Asset
   └── RELATED_TO ──► Event
 
 
-A vantagem do modelo de grafos está na capacidade de investigar relações complexas sem depender exclusivamente de estruturas lineares ou tabelas isoladas.
+A vantagem do modelo de grafos está na capacidade de investigar
+
+relações complexas sem depender exclusivamente de estruturas lineares ou tabelas isoladas.
 
 🔬 Threat Intelligence
 
-A inteligência de ameaças dentro do ecossistema PHT Security System é orientada à correlação de diferentes classes de informação.
+A inteligência de ameaças dentro do ecossistema
+
+PHT Security System é orientada à correlação de diferentes classes de informação.
 
 Entre os elementos possíveis estão:
 
@@ -275,13 +279,17 @@ Infraestrutura
 
 Entidades relacionadas
 
-O objetivo não é apenas armazenar indicadores, mas compreender como eles se relacionam com o ambiente analisado.
+O objetivo não é apenas armazenar indicadores, mas compreender como eles se relacionam
+
+com o ambiente analisado.
 
 🔎 Investigação Digital
 
 A investigação digital exige mais do que coleta de informações.
 
-É necessário preservar contexto, estabelecer relações e permitir que o analista reconstrua uma sequência lógica de eventos.
+É necessário preservar contexto, estabelecer relações e permitir que o analista reconstrua
+
+uma sequência lógica de eventos.
 
 A arquitetura da PHT Security System busca apoiar esse processo através de:
 
@@ -310,7 +318,8 @@ Cada etapa pode ser integrada a mecanismos automatizados ou executada sob superv
 
 ⚙️ Arquitetura Tecnológica
 
-O ecossistema PHT Security System pode integrar diferentes camadas tecnológicas de acordo com as necessidades de cada solução.
+O ecossistema PHT Security System pode integrar diferentes camadas tecnológicas de acordo
+com as necessidades de cada solução.
 
 
 ┌──────────────────────────────────────────────────────┐
