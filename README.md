@@ -1,142 +1,178 @@
-<div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=PHT%20Security%20System&fontSize=70&fontColor=FFFF00&animation=fadeIn&fontAlignY=35&stroke=FFFF00&strokeWidth=2" width="100%" alt="PHT Security System Banner"/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=PHT%20Security%20System&fontSize=70&fontColor=FFFF00&animation=fadeIn&fontAlignY=35&stroke=FFFF00&strokeWidth=2" width="100%" alt="PHT Security System Banner" /> ### 🛡️ Cybersecurity, Threat Intelligence & Digital Investigation [![SaaS Model](https://img.shields.io/badge/Model-Software_as_a_Service-success?style=for-the-badge&logo=cloud&logoColor=white)](https://github.com/hackimghost) [![Focus](https://img.shields.io/badge/Focus-Cybersecurity_%26_OSINT-blueviolet?style=for-the-badge&logo=shield&logoColor=white)](#) [![Architecture](https://img.shields.io/badge/Architecture-Data_%26_Graph_Intelligence-blue?style=for-the-badge&logo=neo4j&logoColor=white)](#) <br> <!-- ============================================================ PHT SECURITY SYSTEM — LOGO ============================================================ Para substituir o logo da empresa: 1. Substitua o arquivo "logo.png" na raiz do repositório. 2. Mantenha o mesmo nome: logo.png 3. Não é necessário alterar este README. Estrutura esperada: / ├── README.md ├── logo.png └── ... ============================================================ --> <img src="./logo.png" alt="PHT Security System Logo" width="420" /> <br> <br> ![System Pings](https://komarev.com/ghpvc/?username=hackimghost&style=for-the-badge&color=FFFF00&labelColor=0d1117&label=SYSTEM+PINGS) ![Network Nodes](https://img.shields.io/github/followers/hackimghost?style=for-the-badge&color=FFFF00&labelColor=0d1117&label=NETWORK+NODES) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#) <br> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFF00&center=true&vCenter=true&width=800&lines=Cybersecurity+e+Inteligência+para+ambientes+complexos+🛡️;APT+Chat:+Análise+e+Operações+Assistidas+por+IA+🧠;Phantom:+Investigação+e+Forense+Digital+🔎;Transformando+dados+em+decisões+de+segurança.+⚔️)](https://git.io/typing-svg) </div> --- ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif) > ⚠️ **USO RESPONSÁVEL E CONFORMIDADE** > > As soluções da **PHT Security System** são desenvolvidas para uso em ambientes autorizados, incluindo segurança corporativa, auditoria, investigação digital e análise de ameaças. > > Nossos sistemas são projetados para apoiar equipes técnicas na identificação, análise e tratamento de riscos. O uso das plataformas deve respeitar a legislação aplicável, as políticas de segurança de cada organização e os limites de autorização definidos para cada operação. --- # 🛡️ Sobre a PHT Security System A **PHT Security System** desenvolve tecnologia para **cybersecurity, threat intelligence, análise de dados e investigação digital**. Ambientes modernos produzem grandes volumes de informações de segurança. Logs, indicadores, eventos, ativos, relacionamentos, evidências e fontes externas precisam ser transformados em contexto para que equipes técnicas possam tomar decisões mais rápidas e precisas. Nossa abordagem combina: - Cybersecurity - Threat Intelligence - OSINT - Inteligência Artificial - Análise de dados - Automação - Investigação digital - Forense computacional - Arquiteturas baseadas em grafos - Correlação de indicadores e entidades O objetivo é transformar dados dispersos em **informação contextualizada, evidência técnica e inteligência operacional**. ### Princípios | Princípio | Aplicação | |---|---| | 🔐 Security by Design | Segurança incorporada desde a arquitetura | | 🧠 Contextual Intelligence | Dados analisados dentro de seus relacionamentos | | ⚙️ Responsible Automation | Automação orientada por regras e contexto | | 🔎 Traceability | Evidências e decisões passíveis de rastreamento | | 📊 Data-Driven Security | Decisões baseadas em dados verificáveis | | 🏢 Practical Application | Tecnologia orientada a problemas reais | --- # 🚀 Nossas Soluções | Produto | Finalidade | Tecnologias | |---|---|---| | 🧠 **APT Chat** | Análise e operações assistidas por IA | Python, APIs, Data Analysis, Neo4j | | 👻 **Phantom** | Investigação e análise forense digital | C/C++, Rust, Go, Zig | | 🌐 **OSINT & Intelligence Hub** | Coleta, correlação e enriquecimento de inteligência | APIs, Bash, JavaScript, TypeScript | --- # 🧠 APT Chat O **APT Chat** é uma plataforma de análise e assistência operacional orientada a cybersecurity. A proposta é utilizar inteligência artificial, automação e integração com fontes técnicas para auxiliar profissionais na interpretação de informações complexas. Entre os principais objetivos estão: - Análise contextual de informações - Correlação de dados - Consulta a fontes externas autorizadas - Apoio à investigação - Organização de evidências - Automação de tarefas técnicas - Geração de contexto para tomada de decisão O APT Chat não substitui o profissional de segurança. Ele funciona como uma camada de **assistência, análise e contextualização** sobre o trabalho técnico. --- # 👻 Phantom O **Phantom** é uma plataforma independente voltada à **investigação digital, análise técnica e processamento de evidências**. Sua arquitetura é orientada para operações que exigem maior controle sobre processamento, desempenho e integração com ferramentas especializadas. O projeto utiliza tecnologias de baixo nível e linguagens voltadas a desempenho e controle de recursos, incluindo: - C/C++ - Rust - Go - Zig O objetivo é fornecer uma base tecnológica capaz de trabalhar com: - Análise de artefatos - Processamento de evidências - Investigação técnica - Correlação de informações - Automação de procedimentos - Análise de ambientes autorizados - Suporte a operações de investigação digital --- # 🌐 OSINT & Intelligence Hub A camada de **OSINT & Intelligence Hub** concentra mecanismos destinados à coleta, normalização, correlação e enriquecimento de informações provenientes de fontes autorizadas. A arquitetura pode integrar: - APIs especializadas - Serviços de inteligência - Dados públicos - Indicadores técnicos - Sistemas internos - Scripts de automação - Pipelines de processamento A finalidade é reduzir o trabalho manual necessário para transformar múltiplas fontes de informação em contexto operacional. --- # 🕸️ Arquitetura de Dados e Inteligência de Grafos A PHT Security System utiliza conceitos de **Graph Intelligence** para representar relacionamentos entre ativos, serviços, indicadores, entidades e eventos. Essa abordagem permite analisar não apenas informações isoladas, mas também as relações existentes entre elas. Um ambiente pode ser representado, por exemplo, como: ```text ┌──────────────────┐ │ TARGET │ │ asset-001 │ └────────┬─────────┘ │ EXPOSES │ ▼ ┌──────────────────┐ │ SERVICE │ │ Corporate_API │ │ :443 │ └────────┬─────────┘ │ ASSOCIATED_WITH │ ▼ ┌──────────────────┐ │ THREAT INDICATOR │ │ example-indicator│ │ hash │ └──────────────────┘ 
 
-  ### 🛡️ Cybersecurity, Threat Intelligence & Digital Investigation
+Exemplo de modelagem
 
-  [![SaaS Model](https://img.shields.io/badge/Model-Software_as_a_Service-success?style=for-the-badge&logo=cloud&logoColor=white)](https://github.com/hackimghost)
-  [![Focus](https://img.shields.io/badge/Focus-Cybersecurity_%26_OSINT-blueviolet?style=for-the-badge&logo=shield&logoColor=white)](#)
-  [![Architecture](https://img.shields.io/badge/Architecture-Data_%26_Graph_Intelligence-blue?style=for-the-badge&logo=neo4j&logoColor=white)](#)
+MATCH (target:Target {id: 'asset-001'}) MERGE (service:Service { name: 'Corporate_API', port: 443 }) MERGE (target)-[:EXPOSES]->(service) MERGE (indicator:ThreatIndicator { value: 'example-indicator', type: 'hash' }) MERGE (service)-[:ASSOCIATED_WITH]->(indicator) 
 
-  <br>
+Essa estrutura permite representar relações como:
 
-  <img src="image_11.png" alt="PHT Security System Logo" width="100%">
+Asset │ ├── EXPOSES ──► Service │ │ │ ├── ASSOCIATED_WITH ──► Indicator │ │ │ └── RUNS ──► Software │ ├── LOCATED_IN ──► Environment │ └── RELATED_TO ──► Event 
 
-  <br>
-  <br>
+A vantagem do modelo de grafos está na capacidade de investigar relações complexas sem depender exclusivamente de estruturas lineares ou tabelas isoladas.
 
-  ![System Pings](https://komarev.com/ghpvc/?username=hackimghost&style=for-the-badge&color=FFFF00&labelColor=0d1117&label=SYSTEM+PINGS)
-  ![Network Nodes](https://img.shields.io/github/followers/hackimghost?style=for-the-badge&color=FFFF00&labelColor=0d1117&label=NETWORK+NODES)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+🔬 Threat Intelligence
 
-  <br>
+A inteligência de ameaças dentro do ecossistema PHT Security System é orientada à correlação de diferentes classes de informação.
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFF00&center=true&vCenter=true&width=800&lines=Cybersecurity+e+Inteligência+para+ambientes+complexos+🛡️;APT+Chat:+Análise+e+Operações+Assistidas+por+IA+🧠;Phantom:+Investigação+e+Forense+Digital+🔎;Transformando+dados+em+decisões+de+segurança.+⚔️)](https://git.io/typing-svg)
+Entre os elementos possíveis estão:
 
-</div>
+IPs
 
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+Domínios
 
-> ⚠️ **USO RESPONSÁVEL E CONFORMIDADE**
->
-> As soluções da **PHT Security System** são desenvolvidas para uso em ambientes autorizados, incluindo segurança corporativa, auditoria, investigação digital e análise de ameaças.
->
-> Nossos sistemas são projetados para apoiar equipes técnicas na identificação, análise e tratamento de riscos. O uso das plataformas deve respeitar a legislação aplicável, as políticas de segurança de cada organização e os limites de autorização definidos para cada operação.
+URLs
 
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+Hashes
 
-## 🏢 Sobre a PHT Security System
+Certificados
 
-A **PHT Security System** desenvolve tecnologia para cibersegurança, inteligência de ameaças e investigação digital.
+Serviços
 
-Nosso trabalho está concentrado em um problema simples: organizações acumulam grandes volumes de dados de segurança, mas transformar esses dados em informação útil, contexto e decisão continua sendo um desafio.
+Hosts
 
-Por isso, desenvolvemos plataformas capazes de reunir diferentes fontes de informação, organizar evidências, estabelecer relações entre eventos e apoiar profissionais durante processos de análise e investigação.
+Aplicações
 
-A empresa combina **software, inteligência artificial, análise de dados, OSINT, automação e tecnologias de grafos** para construir ferramentas voltadas a operações de segurança e ambientes que exigem maior capacidade de análise.
+Eventos
 
-### O que orienta nosso desenvolvimento
+Indicadores
 
-- **Segurança por projeto:** controles e limites fazem parte da arquitetura das soluções.
-- **Dados com contexto:** indicadores isolados têm pouco valor quando não podem ser relacionados a outros eventos.
-- **Automação responsável:** automatizar tarefas deve reduzir trabalho operacional sem eliminar supervisão e controle.
-- **Rastreabilidade:** decisões e resultados precisam ser acompanhados por evidências e registros verificáveis.
-- **Aplicação prática:** tecnologia de segurança precisa resolver problemas reais de operação.
+Vulnerabilidades
 
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+Infraestrutura
 
-## 🚀 Nossas Soluções
+Entidades relacionadas
 
-A PHT Security System organiza seu ecossistema em diferentes componentes, cada um direcionado a uma necessidade específica de segurança e análise.
+O objetivo não é apenas armazenar indicadores, mas compreender como eles se relacionam com o ambiente analisado.
 
-| 🧩 | Solução | Aplicação | Tecnologias |
-| :---: | :--- | :--- | :--- |
-| 🧠 | **APT Chat** | Análise e operações assistidas por IA | Python, APIs, análise de dados, Neo4j |
-| 👻 | **Phantom** | Investigação e análise forense | C/C++, Rust, Go, Zig |
-| 🔎 | **OSINT & Intelligence Hub** | Coleta e correlação de informações | APIs, Bash, JavaScript, TypeScript |
+🔎 Investigação Digital
 
----
+A investigação digital exige mais do que coleta de informações.
 
-## 🧠 APT Chat
+É necessário preservar contexto, estabelecer relações e permitir que o analista reconstrua uma sequência lógica de eventos.
 
-### Uma interface de análise para operações de segurança
+A arquitetura da PHT Security System busca apoiar esse processo através de:
 
-O **APT Chat** é a plataforma de interação da PHT Security System para análise, investigação e execução de tarefas relacionadas à segurança.
+COLETA │ ▼ NORMALIZAÇÃO │ ▼ CORRELAÇÃO │ ▼ CONTEXTUALIZAÇÃO │ ▼ ANÁLISE │ ▼ EVIDÊNCIA │ ▼ DECISÃO 
 
-A proposta é reduzir a distância entre o profissional e as diversas ferramentas utilizadas durante uma investigação. Em vez de trabalhar com diferentes interfaces isoladas, o operador pode utilizar uma camada central para consultar informações, executar análises e organizar resultados.
+Cada etapa pode ser integrada a mecanismos automatizados ou executada sob supervisão do operador.
 
-Entre suas principais áreas de aplicação estão:
+⚙️ Arquitetura Tecnológica
 
-- **Análise assistida por IA:** interpretação de solicitações e apoio à execução de tarefas de segurança.
-- **OSINT:** integração com fontes e serviços externos para enriquecimento de informações.
-- **Análise de artefatos:** processamento de arquivos e indicadores para investigação técnica.
-- **YARA:** utilização de regras para identificação e classificação de padrões em artefatos.
-- **Análise de infraestrutura:** apoio à avaliação de hosts, serviços, indicadores e relações entre ativos.
-- **Relatórios:** organização dos resultados para facilitar análise técnica e tomada de decisão.
+O ecossistema PHT Security System pode integrar diferentes camadas tecnológicas de acordo com as necessidades de cada solução.
 
-O APT Chat foi concebido para funcionar como uma camada operacional entre o profissional de segurança e o conjunto de ferramentas necessárias para sua atividade.
+┌──────────────────────────────────────────────────────┐ │ APPLICATION LAYER │ │ │ │ APT Chat │ Phantom │ └────────────────────────┬─────────────────────────────┘ │ ▼ ┌──────────────────────────────────────────────────────┐ │ INTELLIGENCE LAYER │ │ │ │ AI │ OSINT │ Threat Intelligence │ Analysis │ └────────────────────────┬─────────────────────────────┘ │ ▼ ┌──────────────────────────────────────────────────────┐ │ DATA LAYER │ │ │ │ APIs │ Databases │ Graphs │ Evidence │ └────────────────────────┬─────────────────────────────┘ │ ▼ ┌──────────────────────────────────────────────────────┐ │ INFRASTRUCTURE │ │ │ │ Linux │ Containers │ Networks │ Services │ └──────────────────────────────────────────────────────┘ 
 
----
+🧩 Stack Tecnológica
 
-## 👻 Phantom
+Linguagens
 
-### Investigação, correlação e análise forense
+Python C C++ Rust Go Zig JavaScript TypeScript Bash 
 
-O **Phantom** é uma plataforma dedicada a cenários que exigem maior profundidade de análise, correlação de evidências e investigação digital.
+Dados e Inteligência
 
-Sua arquitetura foi concebida para trabalhar com grandes volumes de informações técnicas e estabelecer relações entre diferentes elementos de uma investigação.
+Neo4j SQLite APIs Graph Intelligence Data Analysis Threat Intelligence OSINT 
 
-Entre os objetivos do projeto estão:
+Infraestrutura
 
-- análise de artefatos digitais;
-- correlação de indicadores;
-- reconstrução de eventos;
-- organização de evidências;
-- análise de relacionamentos entre entidades;
-- apoio a investigações técnicas e forenses;
-- geração de informações estruturadas para análise posterior.
+Linux Docker REST APIs Webhooks Network Services Automation 
 
-O Phantom é desenvolvido para ambientes em que **contexto, rastreabilidade e preservação das informações** são requisitos importantes.
+🔐 Segurança e Privacidade
 
-> **Nota:** recursos específicos podem variar de acordo com a implementação, ambiente e escopo autorizado de cada operação.
+A PHT Security System considera segurança uma característica arquitetural, não apenas uma funcionalidade adicional.
 
----
+As soluções são projetadas considerando conceitos como:
 
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+Princípio do menor privilégio
 
-## 🕸️ Arquitetura de Dados e Inteligência de Grafos
+Separação de responsabilidades
 
-Uma das características da arquitetura PHT é o uso de **bancos de dados orientados a grafos** para representar relações entre ativos, eventos, indicadores e evidências.
+Validação de entradas
 
-O Neo4j é utilizado como uma das tecnologias de suporte à camada de correlação.
+Controle de acesso
 
-Isso permite representar relações que seriam difíceis de visualizar em estruturas puramente tabulares.
+Proteção de credenciais
 
-Por exemplo:
+Registro de eventos
 
-```cypher
-MATCH (target:Target {id: 'asset-001'})
+Rastreabilidade
 
-MERGE (service:Service {
-    name: 'Corporate_API',
-    port: 443
-})
+Tratamento seguro de dados
 
-MERGE (target)-[:EXPOSES]->(service)
+Integração controlada com serviços externos
 
-MERGE (indicator:ThreatIndicator {
-    value: 'example-indicator',
-    type: 'hash'
-})
+Informações sensíveis, credenciais e tokens não devem ser armazenados diretamente no código-fonte.
 
-MERGE (service)-[:ASSOCIATED_WITH]->(indicator)
+Sempre que aplicável, recomenda-se utilizar:
+
+Environment Variables Secrets Management Encrypted Storage Access Control Audit Logging 
+
+🏗️ Filosofia de Desenvolvimento
+
+A PHT Security System busca construir sistemas que sejam:
+
+PRECISOS + AUDITÁVEIS + ESCALÁVEIS + SEGUROS + OPERACIONAIS 
+
+A tecnologia deve resolver problemas reais.
+
+Por isso, cada componente é desenvolvido considerando não apenas sua capacidade técnica, mas também:
+
+Confiabilidade
+
+Manutenibilidade
+
+Observabilidade
+
+Segurança
+
+Integração
+
+Desempenho
+
+Aplicabilidade operacional
+
+📡 Ecossistema
+
+PHT SECURITY SYSTEM │ ┌─────────────────┼─────────────────┐ │ │ │ ▼ ▼ ▼ APT CHAT PHANTOM OSINT HUB │ │ │ └─────────────────┼─────────────────┘ │ ▼ INTELLIGENCE LAYER │ ▼ DATA & GRAPHS │ ▼ SECURITY OPERATIONS 
+
+O objetivo é construir um ecossistema integrado no qual diferentes componentes possam compartilhar contexto e contribuir para uma visão mais completa do ambiente analisado.
+
+🎯 Visão
+
+A visão da PHT Security System é desenvolver uma infraestrutura tecnológica capaz de transformar grandes volumes de dados técnicos em inteligência operacional confiável.
+
+O foco está na convergência entre:
+
+Cybersecurity + Artificial Intelligence + Data Intelligence + Digital Investigation
+
+A longo prazo, o objetivo é criar ferramentas capazes de reduzir complexidade, aumentar capacidade analítica e fornecer aos profissionais de segurança informações mais claras para tomada de decisão.
+
+🛡️ PHT Security System
+
+Security intelligence for complex environments.
+
+Cybersecurity.
+Threat Intelligence.
+Digital Investigation.
+Artificial Intelligence.
+Data Intelligence.
+
+PHT Security System — transformando dados em decisões de segurança.
+
+
+￼
+
+
+PHT SECURITY SYSTEM
+
+Cybersecurity • Intelligence • Investigation
+
+
+￼
+
+
+
+© PHT Security System
+
+``` 
+
