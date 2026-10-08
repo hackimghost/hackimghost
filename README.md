@@ -206,3 +206,261 @@ Um ambiente pode ser representado, por exemplo, como:
                     │ example-indicator│
                     │      hash        │
                     └──────────────────┘
+
+MATCH (target:Target {id: 'asset-001'})
+
+MERGE (service:Service {
+    name: 'Corporate_API',
+    port: 443
+})
+
+MERGE (target)-[:EXPOSES]->(service)
+
+
+
+MERGE (indicator:ThreatIndicator {
+    value: 'example-indicator',
+    type: 'hash'
+})
+
+MERGE (service)-[:ASSOCIATED_WITH]->(indicator)
+
+Asset
+  │
+  ├── EXPOSES ──► Service
+  │                  │
+  │                  ├── ASSOCIATED_WITH ──► Indicator
+  │                  │
+  │                  └── RUNS ──► Software
+  │
+  ├── LOCATED_IN ──► Environment
+  │
+  └── RELATED_TO ──► Event
+
+A vantagem do modelo de grafos está na capacidade de investigar relações complexas sem depender exclusivamente de estruturas lineares ou tabelas isoladas.
+
+🔬 Threat Intelligence
+
+A inteligência de ameaças dentro do ecossistema PHT Security System é orientada à correlação de diferentes classes de informação.
+
+Entre os elementos possíveis estão:
+
+IPs
+
+Domínios
+
+URLs
+
+Hashes
+
+Certificados
+
+Serviços
+
+Hosts
+
+Aplicações
+
+Eventos
+
+Indicadores
+
+Vulnerabilidades
+
+Infraestrutura
+
+Entidades relacionadas
+
+O objetivo não é apenas armazenar indicadores, mas compreender como eles se relacionam com o ambiente analisado.
+
+🔎 Investigação Digital
+
+A investigação digital exige mais do que coleta de informações.
+
+É necessário preservar contexto, estabelecer relações e permitir que o analista reconstrua uma sequência lógica de eventos.
+
+A arquitetura da PHT Security System busca apoiar esse processo através de:
+
+COLETA
+   │
+   ▼
+NORMALIZAÇÃO
+   │
+   ▼
+CORRELAÇÃO
+   │
+   ▼
+CONTEXTUALIZAÇÃO
+   │
+   ▼
+ANÁLISE
+   │
+   ▼
+EVIDÊNCIA
+   │
+   ▼
+DECISÃO
+
+Cada etapa pode ser integrada a mecanismos automatizados ou executada sob supervisão do operador.
+
+⚙️ Arquitetura Tecnológica
+
+O ecossistema PHT Security System pode integrar diferentes camadas tecnológicas de acordo com as necessidades de cada solução.
+
+
+┌──────────────────────────────────────────────────────┐
+│                  APPLICATION LAYER                   │
+│                                                      │
+│        APT Chat        │        Phantom              │
+└────────────────────────┬─────────────────────────────┘
+                         │
+                         ▼
+┌──────────────────────────────────────────────────────┐
+│                 INTELLIGENCE LAYER                   │
+│                                                      │
+│      AI │ OSINT │ Threat Intelligence │ Analysis     │
+└────────────────────────┬─────────────────────────────┘
+                         │
+                         ▼
+┌──────────────────────────────────────────────────────┐
+│                    DATA LAYER                        │
+│                                                      │
+│       APIs │ Databases │ Graphs │ Evidence           │
+└────────────────────────┬─────────────────────────────┘
+                         │
+                         ▼
+┌──────────────────────────────────────────────────────┐
+│                 INFRASTRUCTURE                       │
+│                                                      │
+│       Linux │ Containers │ Networks │ Services       │
+└──────────────────────────────────────────────────────┘
+
+
+🧩 Stack Tecnológica
+
+Linguagens
+
+Python C C++ Rust Go Zig JavaScript TypeScript Bash 
+
+Dados e Inteligência
+
+Neo4j SQLite APIs Graph Intelligence Data Analysis Threat Intelligence OSINT 
+
+Infraestrutura
+
+Linux Docker REST APIs Webhooks Network Services Automation 
+
+🔐 Segurança e Privacidade
+
+A PHT Security System considera segurança uma característica arquitetural, não apenas uma funcionalidade adicional.
+
+As soluções são projetadas considerando conceitos como:
+
+Princípio do menor privilégio
+
+Separação de responsabilidades
+
+Validação de entradas
+
+Controle de acesso
+
+Proteção de credenciais
+
+Registro de eventos
+
+Rastreabilidade
+
+Tratamento seguro de dados
+
+Integração controlada com serviços externos
+
+Informações sensíveis, credenciais e tokens não devem ser armazenados diretamente no código-fonte.
+
+Sempre que aplicável, recomenda-se utilizar:
+
+Environment Variables Secrets Management Encrypted Storage Access Control Audit Logging 
+
+🏗️ Filosofia de Desenvolvimento
+
+A PHT Security System busca construir sistemas que sejam:
+
+PRECISOS + AUDITÁVEIS + ESCALÁVEIS + SEGUROS + OPERACIONAIS 
+
+A tecnologia deve resolver problemas reais.
+
+Por isso, cada componente é desenvolvido considerando não apenas sua capacidade técnica, mas também:
+
+Confiabilidade
+
+Manutenibilidade
+
+Observabilidade
+
+Segurança
+
+Integração
+
+Desempenho
+
+Aplicabilidade operacional
+
+📡 Ecossistema
+
+                    PHT SECURITY SYSTEM
+                            │
+          ┌─────────────────┼─────────────────┐
+          │                 │                 │
+          ▼                 ▼                 ▼
+      APT CHAT           PHANTOM          OSINT HUB
+          │                 │                 │
+          └─────────────────┼─────────────────┘
+                            │
+                            ▼
+                   INTELLIGENCE LAYER
+                            │
+                            ▼
+                      DATA & GRAPHS
+                            │
+                            ▼
+                  SECURITY OPERATIONS
+O objetivo é construir um ecossistema integrado no qual diferentes componentes possam compartilhar contexto e contribuir para uma visão mais completa do ambiente analisado.
+
+🎯 Visão
+
+A visão da PHT Security System é desenvolver uma infraestrutura tecnológica capaz de transformar grandes volumes de dados técnicos em inteligência operacional confiável.
+
+O foco está na convergência entre:
+
+Cybersecurity + Artificial Intelligence + Data Intelligence + Digital Investigation
+
+A longo prazo, o objetivo é criar ferramentas capazes de reduzir complexidade, aumentar capacidade analítica e fornecer aos profissionais de segurança informações mais claras para tomada de decisão.
+
+🛡️ PHT Security System
+
+Security intelligence for complex environments.
+
+Cybersecurity.
+Threat Intelligence.
+Digital Investigation.
+Artificial Intelligence.
+Data Intelligence.
+
+PHT Security System — transformando dados em decisões de segurança.
+
+
+￼
+
+
+PHT SECURITY SYSTEM
+
+Cybersecurity • Intelligence • Investigation
+
+
+￼
+
+
+
+© PHT Security System
+
+``` 
+
