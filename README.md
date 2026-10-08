@@ -184,6 +184,8 @@ Essa abordagem permite analisar não apenas informações isoladas, mas também 
 Um ambiente pode ser representado, por exemplo, como:
 
 ```text
+
+
                     ┌──────────────────┐
                     │      TARGET      │
                     │    asset-001     │
@@ -207,6 +209,9 @@ Um ambiente pode ser representado, por exemplo, como:
                     │      hash        │
                     └──────────────────┘
 
+
+Exemplo de modelagem:
+
 MATCH (target:Target {id: 'asset-001'})
 
 MERGE (service:Service {
@@ -215,8 +220,6 @@ MERGE (service:Service {
 })
 
 MERGE (target)-[:EXPOSES]->(service)
-
-
 
 MERGE (indicator:ThreatIndicator {
     value: 'example-indicator',
@@ -236,6 +239,7 @@ Asset
   ├── LOCATED_IN ──► Environment
   │
   └── RELATED_TO ──► Event
+
 
 A vantagem do modelo de grafos está na capacidade de investigar relações complexas sem depender exclusivamente de estruturas lineares ou tabelas isoladas.
 
@@ -300,6 +304,7 @@ EVIDÊNCIA
    │
    ▼
 DECISÃO
+
 
 Cada etapa pode ser integrada a mecanismos automatizados ou executada sob supervisão do operador.
 
@@ -423,6 +428,8 @@ Aplicabilidade operacional
                             │
                             ▼
                   SECURITY OPERATIONS
+
+
 O objetivo é construir um ecossistema integrado no qual diferentes componentes possam compartilhar contexto e contribuir para uma visão mais completa do ambiente analisado.
 
 🎯 Visão
