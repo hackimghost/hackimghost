@@ -110,7 +110,7 @@ A esteira de produtos da PHT atua como um ecossistema integrado que cobre todo o
 | 👻 **Phantom** | Investigação e análise forense digital | C/C++, Rust, Go, Zig |
 | 🌐 **OSINT & Intelligence Hub** | Coleta, correlação e enriquecimento de inteligência | APIs, Bash, JavaScript, TypeScript |
 | 💀 **Ghost Protocol** | Orquestração de Emulação de Adversários (Red Teaming) | Go, Rust, C2 Architecture |
-| 👁️ **AIEST** | Framework autônomo de Inteligência e Defesa | Python, Go, Machine Learning |
+| 👁️ **kage-Aegis** | Framework autônomo de Inteligência e Defesa | Python, Go, Machine Learning |
 | 🤝 **Consultoria & Comunidade** | Operações táticas e ecossistema de inteligência colaborativa | Mentoria, Auditoria, TTPs |
 
 ---
@@ -196,13 +196,13 @@ Suas principais capacidades incluem:
 
 ---
 
-# 👁️ AIEST
+# 👁️ KAGE-AEGIS
 
-O **AIEST** (Autonomous Intelligence & Edge Security Tech) é nosso framework voltado para inteligência contínua e monitoramento avançado.
+O **KAGE-AEGIS** (Autonomous Intelligence & Edge Security Tech) é nosso framework voltado para inteligência contínua e monitoramento avançado.
 
 Ele expande nossas capacidades operacionais aplicando processamento diretamente na borda (Edge AI) e consolidando dados de múltiplas fontes para uma defesa ativa.
 
-Os focos do AIEST englobam:
+Os focos do KAGE-AEGIS englobam:
 
 - Processamento descentralizado de inteligência
 - Coleta passiva e ativa em múltiplas camadas
