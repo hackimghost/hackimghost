@@ -196,9 +196,9 @@ Suas principais capacidades incluem:
 
 ---
 
-# 👁️ KAGE-AEGIS
+# 👁️ Kege-Aegis
 
-O **KAGE-AEGIS** (Autonomous Intelligence & Edge Security Tech) é nosso framework voltado para inteligência contínua e monitoramento avançado.
+O **Kage-Aegis** (Autonomous Intelligence & Edge Security Tech) é nosso framework voltado para inteligência contínua e monitoramento avançado.
 
 Ele expande nossas capacidades operacionais aplicando processamento diretamente na borda (Edge AI) e consolidando dados de múltiplas fontes para uma defesa ativa.
 
