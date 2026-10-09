@@ -102,11 +102,16 @@ O objetivo é transformar dados dispersos em **informação contextualizada, evi
 
 # 🚀 Nossas Soluções
 
+A esteira de produtos da PHT atua como um ecossistema integrado que cobre todo o espectro operacional da segurança da informação.
+
 | Produto | Finalidade | Tecnologias |
 |---|---|---|
 | 🧠 **APT Chat** | Análise e operações assistidas por IA | Python, APIs, Data Analysis, Neo4j |
 | 👻 **Phantom** | Investigação e análise forense digital | C/C++, Rust, Go, Zig |
 | 🌐 **OSINT & Intelligence Hub** | Coleta, correlação e enriquecimento de inteligência | APIs, Bash, JavaScript, TypeScript |
+| 💀 **Ghost Protocol** | Orquestração de Emulação de Adversários (Red Teaming) | Go, Rust, C2 Architecture |
+| 👁️ **AIEST** | Framework autônomo de Inteligência e Defesa | Python, Go, Machine Learning |
+| 🤝 **Consultoria & Comunidade** | Operações táticas e ecossistema de inteligência colaborativa | Mentoria, Auditoria, TTPs |
 
 ---
 
@@ -172,6 +177,57 @@ A arquitetura pode integrar:
 - Pipelines de processamento
 
 A finalidade é reduzir o trabalho manual necessário para transformar múltiplas fontes de informação em contexto operacional.
+
+---
+
+# 💀 Ghost Protocol
+
+O **Ghost Protocol** é um motor avançado de orquestração de operações ofensivas e emulação autônoma de adversários (Adversary Emulation).
+
+Desenvolvido para simular ameaças persistentes de alto nível, sua arquitetura testa ativamente a resiliência de infraestruturas corporativas contra ataques complexos e furtivos.
+
+Suas principais capacidades incluem:
+
+- Emulação avançada de TTPs (Tactics, Techniques, and Procedures)
+- Arquitetura de Command and Control (C2)
+- Testes de evasão e Fileless Exploitation
+- Avaliação rigorosa de defesas corporativas
+- Geração de telemetria ofensiva para treinamento de Blue Teams
+
+---
+
+# 👁️ AIEST
+
+O **AIEST** (Autonomous Intelligence & Edge Security Tech) é nosso framework voltado para inteligência contínua e monitoramento avançado.
+
+Ele expande nossas capacidades operacionais aplicando processamento diretamente na borda (Edge AI) e consolidando dados de múltiplas fontes para uma defesa ativa.
+
+Os focos do AIEST englobam:
+
+- Processamento descentralizado de inteligência
+- Coleta passiva e ativa em múltiplas camadas
+- Identificação de anomalias e ameaças em tempo real
+- Integração autônoma com bases de dados globais
+- Suporte à inteligência de defesa civil corporativa
+
+---
+
+# 🤝 Consultoria & Comunidade
+
+A nossa esteira de soluções transcende o desenvolvimento de software, fechando o ciclo através da aplicação prática, transferência de conhecimento e colaboração humana.
+
+**Consultoria Corporativa:**
+Oferecemos serviços táticos para organizações que necessitam elevar sua postura de segurança, incluindo:
+- Avaliação de arquiteturas de segurança
+- Implementação de fluxos de Threat Intelligence
+- Red Teaming e operações ofensivas customizadas
+- Auditoria e resposta a incidentes complexos
+
+**Comunidade PHT:**
+Um ecossistema colaborativo exclusivo projetado para profissionais de segurança operarem no mais alto nível:
+- Compartilhamento de inteligência e novos TTPs
+- Formação e mentoria técnica avançada
+- Discussões estratégicas sobre arquitetura e operações no cenário global
 
 ---
 
@@ -422,12 +478,15 @@ Aplicabilidade operacional
 
                     PHT SECURITY SYSTEM
                             │
-          ┌─────────────────┼─────────────────┐
-          │                 │                 │
-          ▼                 ▼                 ▼
-      APT CHAT           PHANTOM          OSINT HUB
-          │                 │                 │
-          └─────────────────┼─────────────────┘
+        ┌───────────┬───────┼───────┬───────────┐
+        │           │       │       │           │
+        ▼           ▼       ▼       ▼           ▼
+    APT CHAT     PHANTOM  OSINT   GHOST       AIEST
+        │           │      HUB    PROTOCOL      │
+        └───────────┴───────┼───────┴───────────┘
+                            │
+                            ▼
+                CONSULTORIA & COMUNIDADE
                             │
                             ▼
                    INTELLIGENCE LAYER
@@ -477,6 +536,3 @@ Cybersecurity • Intelligence • Investigation
 
 
 © PHT Security System
-
-``` 
-
