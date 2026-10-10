@@ -106,8 +106,8 @@ A esteira de produtos da PHT atua como um ecossistema integrado que cobre todo o
 
 | Produto | Finalidade | Tecnologias |
 |---|---|---|
-| 🧠 **APT Chat** | Análise e operações assistidas por IA | Python, APIs, Data Analysis, Neo4j |
-| 👻 **Phantom** | Investigação e análise forense digital | C/C++, Rust, Go, Zig |
+| 🧠 **APT Chat** | Análise e operações assistidas por IA | Python, APIs, Data Analysis, Neo4j+Obsidian |
+| 👻 **Phantom** | Investigação e análise forense digital | C/C++, Rust, Go, Zig, Neo4j+Obsidian |
 | 🌐 **OSINT & Intelligence Hub** | Coleta, correlação e enriquecimento de inteligência | APIs, Bash, JavaScript, TypeScript |
 | 💀 **Ghost Protocol** | Orquestração de Emulação de Adversários (Red Teaming) | Go, Rust, C2 Architecture |
 | 👁️ **kage-Aegis** | Framework autônomo de Inteligência e Defesa | Python, Go, Machine Learning |
