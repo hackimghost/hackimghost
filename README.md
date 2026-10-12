@@ -90,7 +90,7 @@ O objetivo é transformar dados dispersos em **informação contextualizada, evi
 ### Princípios
 
 | Princípio | Aplicação |
-|---|---|
+| --- | --- |
 | 🔐 Security by Design | Segurança incorporada desde a arquitetura |
 | 🧠 Contextual Intelligence | Dados analisados dentro de seus relacionamentos |
 | ⚙️ Responsible Automation | Automação orientada por regras e contexto |
@@ -105,7 +105,7 @@ O objetivo é transformar dados dispersos em **informação contextualizada, evi
 A esteira de produtos da PHT atua como um ecossistema integrado que cobre todo o espectro operacional da segurança da informação.
 
 | Produto | Finalidade | Tecnologias |
-|---|---|---|
+| --- | --- | --- |
 | 🧠 **APT Chat** | Análise e operações assistidas por IA | Python, APIs, Data Analysis, Neo4j+Obsidian |
 | 👻 **Phantom** | Investigação e análise forense digital | C/C++, Rust, Go, Zig, Neo4j+Obsidian |
 | 🌐 **OSINT & Intelligence Hub** | Coleta, correlação e enriquecimento de inteligência | APIs, Bash, JavaScript, TypeScript |
@@ -117,7 +117,7 @@ A esteira de produtos da PHT atua como um ecossistema integrado que cobre todo o
 
 # 🧠 APT Chat
 
-O **APT Chat** é uma plataforma de análise e assistência operacional orientada a cybersecurity.
+O **APT Chat** é uma plataforma de análise e assistência operacional orientada a cybersecurity. Conta com *guard rails* robustos de segurança focados no uso por civis e profissionais corporativos.
 
 A proposta é utilizar inteligência artificial, automação e integração com fontes técnicas para auxiliar profissionais na interpretação de informações complexas.
 
@@ -139,7 +139,7 @@ Ele funciona como uma camada de **assistência, análise e contextualização** 
 
 # 👻 Phantom
 
-O **Phantom** é uma plataforma independente voltada à **investigação digital, análise técnica e processamento de evidências**.
+O **Phantom** é uma plataforma independente voltada à **investigação digital, análise técnica e processamento de evidências**, majoritariamente utilizada por órgãos governamentais, policiais e equipes de perícia forense.
 
 Sua arquitetura é orientada para operações que exigem maior controle sobre processamento, desempenho e integração com ferramentas especializadas.
 
@@ -182,7 +182,7 @@ A finalidade é reduzir o trabalho manual necessário para transformar múltipla
 
 # 💀 Ghost Protocol
 
-O **Ghost Protocol** é um motor avançado de orquestração de operações ofensivas e emulação autônoma de adversários (Adversary Emulation).
+O **Ghost Protocol** é um motor avançado de orquestração de operações ofensivas e emulação autônoma de adversários (Adversary Emulation). Com escopo e contrato rigorosamente definidos, é um *scanner* ofensivo vendido exclusivamente para operações de Red Teams e forças governamentais.
 
 Desenvolvido para simular ameaças persistentes de alto nível, sua arquitetura testa ativamente a resiliência de infraestruturas corporativas contra ataques complexos e furtivos.
 
@@ -211,6 +211,94 @@ Os focos do KAGE-AEGIS englobam:
 - Suporte à inteligência de defesa civil corporativa
 
 ---
+
+# 🔒 Arquitetura de Execução e Privacidade (100% Air-Gapped)
+
+Todo o ecossistema da PHT foi desenhado com foco absoluto em soberania técnica, privacidade inegociável e portabilidade extrema. A infraestrutura inteira pode ser executada a partir de um único **pendrive**.
+
+- **Local AI & Portabilidade:** A arquitetura permite acoplar motores de IA locais (como Llama ou Qwen) diretamente aos módulos (como o Phantom ou o APT Chat). Com o poder computacional de hardware adequado (como uma GPU com 32GB de VRAM dedicada), a infraestrutura roda de forma nativa, em altíssima velocidade e totalmente independente de serviços externos.
+- **Isolamento Air-Gapped & Zero Logs:** Nenhum log ou contexto inserido no ecossistema é enviado para a nuvem. Os dados são processados e retidos de forma estritamente local, garantindo que as informações operacionais fiquem 100% blindadas.
+- **Jaula Tor & Execução Fileless:** O ecossistema roda *fileless* e é inteiramente encapsulado em uma jaula da rede Tor com proxy reverso (incluindo o Aegis, que possui seu próprio proxy reverso interno na jaula). A única rota de saída permitida pela arquitetura é a própria rede Tor, impedindo vazamentos de tráfego, seja operando em servidores de alta capacidade ou em ambientes de validação móveis.
+
+---
+
+# 🧬 Engenharia de Processamento e Escalabilidade (GraphRAG Local)
+
+A inteligência de design por trás dos frameworks (Phantom, APT Chat, Ghost Protocol e Aegis) baseia-se em uma arquitetura elástica que resolve o maior gargalo das IAs locais: o consumo computacional e a saturação de memória (VRAM/RAM).
+
+### 1. Neo4j + Obsidian como Filtro de VRAM
+
+O ecossistema implementa uma arquitetura avançada de **GraphRAG (Graph Retrieval-Augmented Generation)**. Em vez de forçar o LLM a ler gigabytes de dados massivos, o Neo4j mapeia conceitos em nós e arestas. Quando uma consulta é feita, o grafo extrai apenas os fragmentos e conexões exatos do Obsidian. A IA recebe um bloco hiper-relevante, executando inferências rápidas sem congestionar a memória de vídeo e mantendo persistência temporal infinita (memória de longo prazo).
+
+### 2. Ressonância de Hardware e Janela de Contexto Elástica
+
+O ecossistema é perfeitamente adaptável e funciona com maestria em todo o espectro computacional. Para garantir que o usuário extraia o máximo de eficiência sem sobrecarregar a máquina host, a Phantom e o APT Chat fornecem uma **Janela de Configuração Pré-Boot**, permitindo a escolha manual do perfil de Threads e Tokens:
+
+```text
+==========================[ SISTEMA DE IGNIÇÃO ]==========================+
+0. [Micro]        -  2 Threads   (Termux / Smartphones / SoC)
+1. [Stealth]      -  4 Threads   (Hardware Limitado / Background)
+2. [Equilíbrio]   -  8 Threads   (Desempenho Médio / Padrão civil)
+3. [Overclock]    - 16 Threads   (Alta Produtividade / 32GB+ RAM)
+4. [Enterprise]   - 32 Threads   (Workstations / Servidores Dedicados)
+5. [Nexus]        - 64 Threads   (HPC / Clusters de Processamento)
+
+==========================[ ALOCAÇÃO DE CONTEXTO ]========================+
+1. [Tático]       -   2048 Tokens (Velocidade Extrema / < 8GB RAM)
+2. [Operacional]  -   4096 Tokens (Equilíbrio Padrão)
+3. [Estratégico]  -   8192 Tokens (Análise Profunda / 16GB+ RAM)
+4. [Phantom Core] -  11264 Tokens (Sweet Spot 16GB / Aviso: Lentidão)
+5. [Deep Scan]    -  32768 Tokens (Leitura Massiva / 24GB+ VRAM)
+6. [Omnisciência] - 131072 Tokens (Visão Global / 96GB+ VRAM Enterprise)
+==========================[ PHANTOM KADMON ]==============================+
+
+```
+
+A regra de ouro de desempenho da arquitetura PHT é: **quanto maior a potência do hardware, melhor o desempenho, a velocidade e a capacidade analítica da Phantom e do APT Chat.**
+
+- **Em Dispositivos de Borda:** Selecionar o perfil `[Micro]` (2 Threads) alinhado ao contexto `[Tático]` evita o *thermal throttling* e impõe uma dieta estrita de tokens gerenciada pelo Neo4j, mantendo estabilidade em CPUs mobile.
+
+
+- **Em Servidores e Workstations Robustas:** O usuário pode transicionar para os perfis `[Enterprise]` ou `[Nexus]`, somados à leitura massiva dos contextos `[Deep Scan]` ou `[Omnisciência]`. Isso permite injeção de árvores de grafos inteiras através de técnicas avançadas de compressão de contexto.
+
+
+
+### 3. Resiliência Operacional e Gerenciamento de Memória
+
+Desenvolvido para operações de estresse extremo (capaz de sustentar processamento máximo de CPU em AVX2 e paginação agressiva de memória sem estourar o OOM Killer), a arquitetura gerencia dinamicamente configurações de *sysctl/swap*. O design interno de microsserviços ignora *timeouts* padrão de mercado, mantendo a comunicação assíncrona da jaula estável mesmo em processos forenses de alta latência que durem horas.
+
+### 4. Soberania Física e Criptográfica (LUKS + Air-Gap)
+
+Além da proteção lógica da Jaula Tor, a camada de armazenamento físico é selada com criptografia de disco **LUKS**. Caso o pendrive forense seja perdido ou interceptado fisicamente por Atores de Ameaça (APTs), todo o histórico de um ano de correlações, o cofre do Obsidian e a base de grafos do Neo4j permanecem indecifráveis sem a chave mestra (AES-NI).
+
+---
+
+# 📊 Diagrama de Arquitetura do Ecossistema
+
+O fluxograma abaixo ilustra a esteira de dados e a blindagem *Air-Gapped* da nossa solução executável de ponta a ponta:
+
+```text
++-----------------------------------------------------------------------------------+
+|               💽 PENDRIVE FORENSE CRIPTOGRAFADO (LUKS) - AIR-GAPPED               |
+|                                                                                   |
+|  +-----------------------------------------------------------------------------+  |
+|  |                        🛡️ JAULA TOR & PROXY REVERSO                         |  |
+|  |                                                                             |  |
+|  |  +-------------------+        +--------------------+        +------------+  |  |
+|  |  | 🗄️ Obsidian Vault | <----> | 🕸️ Neo4j (Grafos)  | <----> | 🧠 LLM     |  |  |
+|  |  | (Base de Dados)   |        | (Filtro de Contexto|        | (Llama/Qwen|  |  |
+|  |  +-------------------+        +--------------------+        +------------+  |  |
+|  |                                     |                             |         |  |
+|  |       [Consulta do Usuário] --------+                             |         |  |
+|  |       (Phantom / APT Chat)                                        |         |  |
+|  |                                                                   v         |  |
+|  |                            [Resposta Precisa e Contextualizada]             |  |
+|  +-----------------------------------------------------------------------------+  |
++-----------------------------------------------------------------------------------+
+   * Escalabilidade Dinâmica: Adaptável via Menu CLI (Sistema de Ignição)
+   * Performance: Parametrização elástica desde SoC (2 Threads) até Clusters (64 Threads)
+
+```
 
 # 🤝 Consultoria & Comunidade
 
