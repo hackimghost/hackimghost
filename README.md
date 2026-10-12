@@ -481,7 +481,7 @@ Aplicabilidade operacional
         ┌───────────┬───────┼───────┬───────────┐
         │           │       │       │           │
         ▼           ▼       ▼       ▼           ▼
-    APT CHAT     PHANTOM  OSINT   GHOST       AIEST
+    APT CHAT     PHANTOM  OSINT   GHOST       AEGIS
         │           │      HUB    PROTOCOL      │
         └───────────┴───────┼───────┴───────────┘
                             │
