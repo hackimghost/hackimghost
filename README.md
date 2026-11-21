@@ -196,19 +196,18 @@ Suas principais capacidades incluem:
 
 ---
 
-# 👁️ Kege-Aegis
+# 👁️ PHT-Aegis
 
-O **Kage-Aegis** (Autonomous Intelligence & Edge Security Tech) é nosso framework voltado para inteligência contínua e monitoramento avançado.
+O **PHT Aegis** (Autonomous Edge & Kernel Defense Architecture) é o nosso ecossistema de defesa ativa, observabilidade em Ring-0 e resposta autônoma contra ameaças em tempo real.
 
-Ele expande nossas capacidades operacionais aplicando processamento diretamente na borda (Edge AI) e consolidando dados de múltiplas fontes para uma defesa ativa.
+Ele combina sensores nativos de alta performance em **Go** com motores de correlação e mitigação em **Python** e **eBPF**, entregando visibilidade total do tráfego de rede e contenção imediata diretamente no kernel Linux, sem depender de análises lentas pós-incidente.
 
-Os focos do KAGE-AEGIS englobam:
+Os focos do **PHT AEGIS** englobam:
 
-- Processamento descentralizado de inteligência
-- Coleta passiva e ativa em múltiplas camadas
-- Identificação de anomalias e ameaças em tempo real
-- Integração autônoma com bases de dados globais
-- Suporte à inteligência de defesa civil corporativa
+- **Observabilidade de Rede em Tempo Real (AegisNet Radar):** Inspeção contínua via `AF_PACKET` com correlação por processo/PID, detecção de beaconing, visibilidade sobre handshakes ECH/QUIC e mapeamento automático na matriz MITRE ATT&CK.
+- **Defesa Ativa no Kernel (eBPF Ring-0 & AMTD):** Contenção instantânea de tráfego malicioso diretamente na camada do kernel, rotacionamento dinâmico de superfície (AMTD) e rollback rápido com gestão de allowlist.
+- **Inteligência Distribuída & Supply Chain (Swarm & Santo Graal):** Propagação de indicadores e regras de v-patch via Swarm Gossip autenticado com criptografia **Ed25519**, verificação de integridade em memória e blindagem de borda.
+- **Operação com Privacidade & OpSec:** Modo comercial mascarado integrado para auditorias, demonstrações técnicas e operação segura em ambientes críticos.
 
 ---
 
